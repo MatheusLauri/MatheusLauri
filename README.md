@@ -2,11 +2,10 @@
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Matheus Lauri</h1>
     <a href="https://github.com/MatheusLauri">
      <img src="https://github-readme-stats.vercel.app/api?username=MatheusLauri&show_icons=true&theme=dark" alt="nota"height=200px>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLauri&layout=compact" alt="top language">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLauri&layout=compact&theme=dark" alt="top language">
     </a>
 </div>
 <br>
-
 <div class="languages" style="display: inline_block">
   <h2>📚Languages</h2>
   <a href="https://github.com/MatheusLauri">
@@ -30,5 +29,7 @@
  
   <a href="https://www.instagram.com/mat_lauri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-lauri-a26837207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=MatheusLauri&&style=flat-square" align="center" />
 
 
