@@ -1,8 +1,8 @@
 <div class="description" style="display: inline_block">
     <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Matheus Lauri</h1>
     <a href="https://github.com/MatheusLauri">
-     <img src="https://github-readme-stats.vercel.app/api?username=MatheusLauri&show_icons=true&theme=dark" alt="nota"height=200px>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLauri&layout=compact&theme=dark" alt="top language">
+     <img src="https://github-readme-stats.vercel.app/api?username=MatheusLauri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusLauri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="170" alt="languages graph"  />
     </a>
 </div>
 <br>
